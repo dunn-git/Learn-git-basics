@@ -1,2 +1,2 @@
-# Learn-git-basics
+# Python Practice
 
